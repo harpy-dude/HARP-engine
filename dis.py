@@ -1,1 +1,1 @@
-print("clean.room")
+print("ok")
