@@ -1,7 +1,7 @@
 import kivy
 
 
-class MainApp(KApp):
+class MainApp('myApp'):
     pass
 
 MainApp().run()
